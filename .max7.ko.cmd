@@ -1,0 +1,1 @@
+cmd_/home/hcl/GPS/max7.ko := ld -r -m elf_i386 -T /home/hcl/PASE/poky/build/tmp/work/baytrail32-poky-linux/linux-yocto/3.8.0+gitAUTOINC+3df7d50b083a516ba4a5a25cab216662dbeeb340_19f949f52599ba7c3f67a5897ac6be14bfcb1200-r4.1/linux/scripts/module-common.lds --build-id  -o /home/hcl/GPS/max7.ko /home/hcl/GPS/max7.o /home/hcl/GPS/max7.mod.o
